@@ -1,0 +1,8 @@
+lib
+build
+node_modules
+lcov.info
+*.log
+.git
+.scannerwork
+.env
